@@ -1,3 +1,14 @@
+# General
+.DS_Store
+*.DS_Store
+*.idea
+*.iml
+Thumbs.db
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
 # Compiled class file
 *.class
 
